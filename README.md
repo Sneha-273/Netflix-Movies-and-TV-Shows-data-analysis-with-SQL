@@ -1,4 +1,4 @@
 #     Netflix Movies and TV Shows data analysis with SQL
 
 
-![Netflix logo](https://github.com/user-attachments/assets/29072ec4-6cde-4a54-9697-1ddb539cb1ea)
+![Netflix logo](https://github.com/user-attachments/assets/85f586f0-4b94-4ea4-835e-928edad07b1a)
