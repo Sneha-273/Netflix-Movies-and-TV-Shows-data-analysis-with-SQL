@@ -31,6 +31,13 @@ Query Optimization
             
 Business Problem Solving
 
+
+
+#  🔗 Dataset
+Source: Netflix Dataset on Kaggle
+
+Description: The dataset contains information about Netflix's movies and TV shows, including their title, director, cast, country, release year, rating, duration, and genres.
+
 # 🛠️ Business Questions Solved
 
 ### 1️⃣ Count the Number of Movies vs TV Shows  
