@@ -24,11 +24,11 @@ This repository is more than just SQL queries; it’s a journey into data-driven
 
 •Key Focus Areas:
 
-   Data Cleaning 
+    Data Cleaning 
             
-   Query Optimization
+    Query Optimization
             
-   Business Problem Solving
+    Business Problem Solving
 
 
 
