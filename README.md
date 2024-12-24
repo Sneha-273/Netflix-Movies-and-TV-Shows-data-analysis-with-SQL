@@ -40,8 +40,11 @@ This repository is more than just SQL queries; it’s a journey into data-driven
 
 #  📋 Key Features
 • Database Design: Created and structured a relational database to analyze Netflix data.
+
 • Querying Proficiency: Solved 20 business questions with optimized SQL queries.
+
 • Insights and Trends: Explored content distribution by genres, countries, and ratings.
+
 • Business Applications: Insights to drive decisions for catalog improvement and audience engagement.
 
 # 🛠️ Business Questions Solved
