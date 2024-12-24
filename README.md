@@ -31,7 +31,7 @@ Query Optimization
             
 Business Problem Solving
 
-#🛠️ Business Questions Solved
+##🛠️ Business Questions Solved
 
 📊 Basic Level
 1️⃣ # Count the Number of Movies vs TV Shows
