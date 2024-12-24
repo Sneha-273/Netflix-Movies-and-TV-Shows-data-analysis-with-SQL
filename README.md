@@ -11,15 +11,20 @@ This repository is more than just SQL queries; it’s a journey into data-driven
 ## 🎯 Core Objectives
 
 ✔️ Showcase SQL expertise through well-optimized queries. 
+
 ✔️ Derive actionable insights to inform Netflix's content strategies.
+
 ✔️ Provide a foundation for business intelligence and decision-making.
 
 ## 🛠️ Skills & Tools Used
 
 Programming Language: SQL
+
 Database: MySQL 
+
 Dataset: Netflix Movies and TV Shows dataset from Kaggle
+
 Key Focus Areas:
-            🔹Data Cleaning <br>
+            🔹Data Cleaning 
             🔹Query Optimization
             🔹Business Problem Solving
