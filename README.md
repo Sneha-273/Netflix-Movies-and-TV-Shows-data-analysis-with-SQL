@@ -3,12 +3,12 @@
 
 ![Netflix logo](https://github.com/user-attachments/assets/85f586f0-4b94-4ea4-835e-928edad07b1a)
 
-## 🏆 About the Project
+# 🏆 About the Project
 
 Welcome to my Netflix Movies & TV Shows Data Analysis project! 🚀
 This repository is more than just SQL queries; it’s a journey into data-driven storytelling. Using the Netflix dataset from Kaggle, I solved 20 critical business problems, uncovering insights about trends, audience preferences, and global content strategies.
 
-## 🎯 Core Objectives
+# 🎯 Core Objectives
 
 ✔️ Showcase SQL expertise through well-optimized queries. 
 
@@ -16,7 +16,7 @@ This repository is more than just SQL queries; it’s a journey into data-driven
 
 ✔️ Provide a foundation for business intelligence and decision-making.
 
-## 🛠️ Skills & Tools Used
+# 🛠️ Skills & Tools Used
 
 Programming Language: SQL
 
@@ -31,7 +31,7 @@ Query Optimization
             
 Business Problem Solving
 
-## 🛠️ Business Questions Solved
+# 🛠️ Business Questions Solved
 
 ## 1️⃣ Count the Number of Movies vs TV Shows  
 # 2️⃣ List All Movies Released in a Specific Year (e.g., 2020)  
