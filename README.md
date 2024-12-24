@@ -34,10 +34,10 @@ Business Problem Solving
 # 🛠️ Business Questions Solved
 
 ### 1️⃣ Count the Number of Movies vs TV Shows  
-        ```sql
-SELECT type, COUNT(*) AS count  
-FROM netflix_titles  
-GROUP BY type;
+            SELECT type, COUNT(*) AS count  
+            FROM netflix_titles  
+            GROUP BY type;
+
 ### 2️⃣ List All Movies Released in a Specific Year (e.g., 2020)  
 ### 3️⃣ Identify the Longest Movie  
 ### 4️⃣ Find All Movies/TV Shows by Director 'Ben Simms'  
