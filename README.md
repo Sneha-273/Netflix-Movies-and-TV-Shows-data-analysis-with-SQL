@@ -1,5 +1,4 @@
-<h1 style="font-size: 80px;">Netflix Movies and TV Shows Data Analysis</h1>
-
+# Netflix Movies and TV Shows Data Analysis
 ![Netflix logo](https://github.com/user-attachments/assets/85f586f0-4b94-4ea4-835e-928edad07b1a)
 
 # 🏆 About the Project
@@ -194,11 +193,12 @@ This repository is more than just SQL queries; it’s a journey into data-driven
 # 💡 Why This Project Matters
 1. Demonstrates Real-World Problem Solving:
 
-This project addresses practical business challenges that Netflix or similar streaming platforms face daily, such as content selection, audience engagement, and catalog optimization.
+  This project addresses practical business challenges that Netflix or similar streaming platforms face daily, such as content selection, audience engagement, and catalog 
+  optimization.
 
 2. Showcases SQL Proficiency:
 
-From basic filtering to complex aggregations and groupings, the queries in this project demonstrate a comprehensive understanding of SQL, a core skill for any data analyst.
+  From basic filtering to complex aggregations and groupings, the queries in this project demonstrate a comprehensive understanding of SQL, a core skill for any data analyst.
 
 3. Provides Actionable Insights:
 
@@ -210,7 +210,7 @@ From basic filtering to complex aggregations and groupings, the queries in this 
    
 4. Implements an Analytical Workflow:
 
-The structured approach to database design, querying, and interpretation reflects an analytical mindset crucial for delivering measurable results.
+  The structured approach to database design, querying, and interpretation reflects an analytical mindset crucial for delivering measurable results.
 
 # 👋 Let’s Connect!
 I’d love to hear your feedback or collaborate on similar projects.
