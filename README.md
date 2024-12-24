@@ -31,3 +31,29 @@ Key Focus Areas:
             🔹Query Optimization
             
             🔹Business Problem Solving
+
+#🛠️ Business Questions Solved
+
+📊 Basic Level
+1️⃣ # Count the Number of Movies vs TV Shows
+2️⃣ # List All Movies Released in a Specific Year (e.g., 2020)
+3️⃣ # Identify the Longest Movie
+4️⃣ # Find All Movies/TV Shows by Director 'Ben Simms'
+5️⃣ # Find All Content Without a Director
+6️⃣ # List All Movies that are Documentaries
+📊 Intermediate Level
+7️⃣ # Find All Movies with a Rating Above a Certain Threshold (e.g., '8.0')
+8️⃣ # Find the Most Common Rating for Movies and TV Shows
+9️⃣ # Determine the Most Frequently Listed Genres on Netflix
+🔟 # Identify the Countries that Contribute the Most Content to Netflix
+1️⃣1️⃣ # Find Out Which Actors/Actresses Appear Most Frequently on Netflix
+1️⃣2️⃣ # Investigate Which Release Years Dominate Netflix’s Catalog
+1️⃣3️⃣ # Explore How the Duration of Movies and TV Shows Varies Across Genres and Ratings
+1️⃣4️⃣ # Calculate the Average Time Gap Between a Title’s Release Year and the Year It Was Added to Netflix
+📊 Advanced Level
+1️⃣5️⃣ # Assess Netflix’s Catalog Diversity by Analyzing the Number of Unique Countries and Genres Represented
+1️⃣6️⃣ # Identify Which Genres or Countries Netflix Should Invest In
+1️⃣7️⃣ # Determine Whether a Director’s Past Content Trends Can Predict Future Success
+1️⃣8️⃣ # Explore How Regional Cultures Influence Netflix’s Catalog Diversity
+1️⃣9️⃣ # Analyze Whether Certain Ratings Correlate with Higher Viewer Interest
+2️⃣0️⃣ # Build a Recommendation System Using Genres and Cast Members (e.g., Chris Hemsworth)
