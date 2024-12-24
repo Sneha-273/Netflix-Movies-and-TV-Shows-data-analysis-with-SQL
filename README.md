@@ -25,12 +25,11 @@ Database: MySQL
 Dataset: Netflix Movies and TV Shows dataset from Kaggle
 
 Key Focus Areas:
-
-            🔹Data Cleaning 
+Data Cleaning 
             
-            🔹Query Optimization
+Query Optimization
             
-            🔹Business Problem Solving
+Business Problem Solving
 
 #🛠️ Business Questions Solved
 
