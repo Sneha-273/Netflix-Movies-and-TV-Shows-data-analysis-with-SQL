@@ -34,14 +34,14 @@ Business Problem Solving
 # 🛠️ Business Questions Solved
 
 ### 1️⃣ Count the Number of Movies vs TV Shows  
-     SELECT type, COUNT(*) AS count  
-     FROM netflix_titles  
-     GROUP BY type;
+    SELECT type, COUNT(*) AS count  
+    FROM netflix_titles  
+    GROUP BY type;
 
 ### 2️⃣ List All Movies Released in a Specific Year (e.g., 2020)  
-     SELECT title 
-     FROM netflix 
-     WHERE release_year = '2020' AND movie_type = 'movie';
+    SELECT title 
+    FROM netflix 
+    WHERE release_year = '2020' AND movie_type = 'movie';
     
 ### 3️⃣ Identify the Longest Movie
     SELECT title, duration 
@@ -51,13 +51,13 @@ Business Problem Solving
     LIMIT 1;
 
 ### 4️⃣ Find All Movies/TV Shows by Director 'Ben Simms'
-      SELECT director, title, movie_type
-      FROM netflix  
-      WHERE director = 'Ben Simms'; 
+     SELECT director, title, movie_type
+     FROM netflix  
+     WHERE director = 'Ben Simms'; 
 
 ### 5️⃣ Find All Content Without a Director  
-     SELECT title
-     FROM netflix
+    SELECT title
+    FROM netflix
     WHERE director IS NULL OR director = '';
 
 ### 6️⃣ List All Movies that are Documentaries  
@@ -66,9 +66,9 @@ Business Problem Solving
      WHERE listed_in LIKE '%Documentaries%';
 
 ### 7️⃣ Find All Movies with a Rating Above a Certain Threshold (e.g., '8.0') 
-     SELECT title 
-     FROM netflix  
-     WHERE movie_type = 'movie' AND rating >= '8.0';
+    SELECT title 
+    FROM netflix  
+    WHERE movie_type = 'movie' AND rating >= '8.0';
 
 ### 8️⃣ Find the Most Common Rating for Movies and TV Shows 
      SELECT movie_type, rating, COUNT(*) AS total_count
