@@ -161,3 +161,17 @@ Business Problem Solving
     OR casts LIKE '%Chris Hemsworth%' 
     LIMIT 10;   
 
+# 🔍 Insights & Highlights
+
+## 🎭 Content Trends
+• Drama and Comedy dominate Netflix’s library with over 60% of total titles.
+
+• Content production peaked in 2019, followed by a slight decline in later years.
+
+## 🌍 Global Reach
+• United States, India, and Canada lead in content production.
+
+• Regional favorites like Anime and K-Dramas see rising trends in Asian markets.
+
+## 📺 Audience Preferences
+• Movies average at 90 minutes, while TV shows typically span 8-10 episodes per season.
