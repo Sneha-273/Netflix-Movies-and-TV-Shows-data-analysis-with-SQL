@@ -34,6 +34,8 @@ Business Problem Solving
 # 🛠️ Business Questions Solved
 
 ## 1️⃣ Count the Number of Movies vs TV Shows  
+SELECT COUNT(*) AS total_content
+FROM netflix;
 ## 2️⃣ List All Movies Released in a Specific Year (e.g., 2020)  
 ## 3️⃣ Identify the Longest Movie  
 ## 4️⃣ Find All Movies/TV Shows by Director 'Ben Simms'  
