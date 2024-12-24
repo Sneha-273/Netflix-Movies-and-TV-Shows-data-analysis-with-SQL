@@ -18,25 +18,31 @@ This repository is more than just SQL queries; it’s a journey into data-driven
 
 # 🛠️ Skills & Tools Used
 
-Programming Language: SQL
+• Programming Language: SQL
 
-Database: MySQL 
+• Database: MySQL 
 
-Dataset: Netflix Movies and TV Shows dataset from Kaggle
+• Dataset: Netflix Movies and TV Shows dataset from Kaggle
 
-Key Focus Areas:
-Data Cleaning 
+•Key Focus Areas:
+  Data Cleaning 
             
-Query Optimization
+  Query Optimization
             
-Business Problem Solving
+  Business Problem Solving
 
 
 
 #  🔗 Dataset
-Source: Netflix Dataset on Kaggle
+• Source: Netflix Dataset on Kaggle
 
-Description: The dataset contains information about Netflix's movies and TV shows, including their title, director, cast, country, release year, rating, duration, and genres.
+• Description: The dataset contains information about Netflix's movies and TV shows, including their title, director, cast, country, release year, rating, duration, and genres.
+
+#  📋 Key Features
+• Database Design: Created and structured a relational database to analyze Netflix data.
+• Querying Proficiency: Solved 20 business questions with optimized SQL queries.
+• Insights and Trends: Explored content distribution by genres, countries, and ratings.
+• Business Applications: Insights to drive decisions for catalog improvement and audience engagement.
 
 # 🛠️ Business Questions Solved
 
