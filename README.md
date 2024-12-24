@@ -33,7 +33,7 @@ This repository is more than just SQL queries; it’s a journey into data-driven
 
 
 #  🔗 Dataset
-• Source: Netflix Dataset on Kaggle
+• Source: [Netflix Dataset on Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
 
 • Description: The dataset contains information about Netflix's movies and TV shows, including their title, director, cast, country, release year, rating, duration, and genres.
 
