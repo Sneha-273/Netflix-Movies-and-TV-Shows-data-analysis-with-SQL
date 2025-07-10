@@ -1,4 +1,4 @@
-# Netflix Movies and TV Shows Data Analysis with SQL
+# Netflix Movies and TV Shows Data Analysis 
 ![Netflix logo](https://github.com/user-attachments/assets/85f586f0-4b94-4ea4-835e-928edad07b1a)
 
 # 🏆 About the Project
@@ -45,6 +45,16 @@ This repository is more than just SQL queries; it’s a journey into data-driven
 • Insights and Trends: Explored content distribution by genres, countries, and ratings.
 
 • Business Applications: Insights to drive decisions for catalog improvement and audience engagement.
+
+## 📊 Power BI Dashboard Preview
+
+Below is a snapshot of the interactive dashboard built for this project using Power BI:
+
+![Netflix Power BI Dashboard](images/netflix_dashboard.png) <!-- Replace with actual image path -->
+
+📁 You can download and explore the full `.pbix` report file here:  
+[Download Dashboard (.pbix)](https://github.com/your-username/your-repo-name/raw/main/Netflix_Dashboard.pbix) <!-- Replace with actual file path -->
+
 
 # 🛠️ Business Questions Solved
 
