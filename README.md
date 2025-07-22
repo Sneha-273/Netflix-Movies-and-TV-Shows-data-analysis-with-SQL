@@ -52,6 +52,8 @@ Below is a snapshot of the interactive dashboard built for this project using Po
 
 ![Netflix Power BI Dashboard](https://github.com/Sneha-273/Netflix-Movies-and-TV-Shows-data-analysis-with-SQL/blob/main/netflix%20dashboard%20pic.PNG)  
 
+---
+
 📁 You can download and explore the full `.pbix` report file here:  
 [Download Dashboard (.pbix)](https://github.com/Sneha-273/Netflix-Movies-and-TV-Shows-data-analysis-with-SQL/blob/main/Netflix.pbix) 
 
