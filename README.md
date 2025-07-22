@@ -48,9 +48,9 @@ This repository is more than just SQL queries; it’s a journey into data-driven
 
 ## 📊 Power BI Dashboard Preview
 
-Below is a snapshot of the interactive dashboard built for this project using Power BI:
+Below is a interactive dashboard built for this project using Power BI:
 
-![Netflix Power BI Dashboard]()  
+![Netflix Power BI Dashboard](https://github.com/Sneha-273/Netflix-Movies-and-TV-Shows-data-analysis-with-SQL/blob/main/Netflix.gif)  
 
 ---
 
